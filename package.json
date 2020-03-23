@@ -1,0 +1,13 @@
+{
+  "name": "hasura-remote-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.3",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {"start": "node index.js"}
+}
